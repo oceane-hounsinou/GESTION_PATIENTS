@@ -1,4 +1,5 @@
 # Projet 2 : Gestion des Patients d'une Clinique
+<img width="1672" height="941" alt="patient" src="https://github.com/user-attachments/assets/ae449f43-68ca-4cea-b1e5-a6dbee7c5c18" />
 
 ## Description
 Application PHP/MySQL (CRUD) pour l'enregistrement et le suivi des patients dans une clinique située à Cotonou.
